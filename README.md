@@ -1,2 +1,14 @@
 # Projects
 Real State Price Prediction without Hyperparameter Tuning
+1. Lets understand the data
+2. Processing data
+3. Scikit-learn design
+    * Feature Scaling
+    * Creating Pipeline
+    * Selecting a Desired Model
+    * Evaluating the Model - MSE(Mean Squared Error) & Cross-Validation Technique
+    * Saving the model
+4. Testing & Loading the Model for further use
+    * Testing Model on test data
+    * Load & Using the model for same no. of features used in prepration
+    
